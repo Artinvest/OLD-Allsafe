@@ -4,9 +4,11 @@ This is the official github repository for Allsafe2. Allsafe is a medium of exch
 We are open to your ideas for this coin.
 
 Website:
-https://allsafetoken.pw/
+https://allsafecoin.org/
 Block explorer:
-http://explorer.allsafetoken.pw:3001/
+http://allsafe2.thecryptochat.net/
+Bitcointalk : 
+https://bitcointalk.org/index.php?topic=4927361
 
 ## Coin Specifications
 
